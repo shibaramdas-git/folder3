@@ -1,1 +1,1 @@
-let x = document.getElementById
+let x = document.getElementById("heading");
