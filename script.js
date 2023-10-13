@@ -1,1 +1,1 @@
-write script here
+let x = document.getElementById
